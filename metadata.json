@@ -1,0 +1,15 @@
+{
+  "name": "Nest4",
+  "symbol": "NOR4",
+  "contract_address": "0xA803243C629300f46a78195Da24EC451cDDCd32A",
+  "decimals": 18,
+  "network": "BNB Smart Chain (BEP-20)",
+  "total_supply": "1000000000",
+  "website": "https://nest4.com/",
+  "official_email": "nor4@nest4.com",
+  "telegram_community": "https://t.me/NOR4NOR4NOR4",
+  "telegram_channel": "https://t.me/nest4nest4",
+  "twitter": "https://x.com/nest4nest4",
+  "logo": "assets/logo.png",
+  "description": "A fast and engaging community-focused DeFi project where users can stake, trade, and enjoy crypto rewards."
+}
