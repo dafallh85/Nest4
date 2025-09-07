@@ -15,6 +15,6 @@
 - **Twitter (X):** [https://x.com/nest4nest4](https://x.com/nest4nest4)
 - **Telegram (Community):** [https://t.me/NOR4NOR4NOR4](https://t.me/NOR4NOR4NOR4)
 - **Telegram (Channel):** [https://t.me/nest4nest4](https://t.me/nest4nest4)
-
+📬 Telegram Contact: https://t.me/Token_Officer
 ## Description
 A fast and engaging community-focused DeFi project where users can stake, trade, and enjoy crypto rewards. 🚀
