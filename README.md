@@ -8,8 +8,8 @@
 - **Decimals:** 18
 - **Total Supply:** 1,000,000,000 NOR4
 - **Network:** BNB Sma## 8️⃣ Official Contacts
-- *Website:* [https://nest4.sbs](https://nest4.sbs)  
-- *Email:* nor4@nest4.sbs  
+- *Website:* [https://nest4nor.sbs](https://nest4nor.sbs)  
+- *Email:* nor4@nest4nor.sbs  
 - *Twitter (X):* [https://x.com/nest4nest4](https://x.com/nest4nest4)  
 - *Telegram Community:* [https://t.me/NOR4NOR4NOR4](https://t.me/NOR4NOR4NOR4)  
 - *Telegram Channel:* [https://t.me/nest4nest4](https://t.me/nest4nest4)  
