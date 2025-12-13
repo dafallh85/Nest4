@@ -4,7 +4,7 @@
 **NEST4 (NOR4)** is a next-generation digital innovation platform on the **BNB Smart Chain**, providing a secure, fast, and smart ecosystem for users to stake, invest, and earn rewards.  
 **Official Launch Date:** January 6, 2025  
 **Total Supply:** 1,000,000,000 NOR4  
-**Website:** [https://nest4.sbs](https://nest4.sbs)  
+**Website:** [https://nest4nor.sbs](https://nest4nor.sbs)  
 **Contract / Token Address:** [BscScan NOR4](https://bscscan.com/token/0xA803243C629300f46a78195Da24EC451cDDCd32A)  
 
 ### Short Description / Tagline:
@@ -82,11 +82,11 @@
 ---
 
 ## 8️⃣ Official Contacts
-- **Website:** [https://nest4.sbs](https://nest4.sbs)  
-- **Email:** nor4@nest4.sbs  
-- **Twitter (X):** [https://x.com/nest4nest4](https://x.com/nest4nest4)  
-- **Telegram Community:** [https://t.me/NOR4NOR4NOR4](https://t.me/NOR4NOR4NOR4)  
-- **Telegram Channel:** [https://t.me/nest4nest4](https://t.me/nest4nest4)  
+- **Website:** [https://nest4nor.sbs](https://nest4nor.sbs)  
+- **Email:** nor4@nest4nor.sbs  
+- **Twitter (X):** [https://x.com/nest4nor](https://x.com/nest4nor)  
+- **Telegram Community:** [https://t.me/NOR0004](https://t.me/NOR0004)  
+- **Telegram Channel:** [https://t.me/nest4nor](https://t.me/nest4nor)  
 - **Telegram Contact Officer:** [https://t.me/Token_Officer](https://t.me/Token_Officer)  
 - **GitHub Repository:** [https://github.com/dafallh85/Nest4](https://github.com/dafallh85/Nest4)  
 - **Token Contract on BscScan:** [https://bscscan.com/token/0xA803243C629300f46a78195Da24EC451cDDCd32A](https://bscscan.com/token/0xA803243C629300f46a78195Da24EC451cDDCd32A)
