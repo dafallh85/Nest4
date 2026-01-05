@@ -1,0 +1,27 @@
+{
+  "name": "NEST4",
+  "token_symbol": "NOR4",
+  "description": "NEST4 is a long-term digital investment ecosystem built on transparency, structure, and sustainability. NOR4 is the official token representing participation within the NEST4 framework, aligning holders with a disciplined and future-oriented digital investment vision.",
+  "blockchain": "BNB Chain",
+  "standard": "BEP-20",
+  "contract_address": "0xA803243C629300f46a78195Da24EC451cDDCd32A",
+  "website": "https://nest4nor.sbs",
+  "email": "nor4@nest4nor.sbs",
+  "socials": {
+    "twitter": "https://x.com/nest4nor",
+    "telegram_channel": "https://t.me/nest4nor",
+    "telegram_community": "https://t.me/NOR0004",
+    "telegram_contact": "https://t.me/Token_Officer",
+    "github": "https://github.com/dafallh85/Nest4"
+  },
+  "category": "Digital Investment Ecosystem",
+  "use_case": [
+    "Ecosystem participation",
+    "Long-term investment alignment",
+    "Digital fund representation",
+    "Community engagement"
+  ],
+  "status": "Active",
+  "fund_name": "NEST4 Digital Investment Fund",
+  "notes": "NOR4 is actively tradable on the market. The NEST4 digital investment fund will be launched in a later phase according to the official roadmap."
+}
