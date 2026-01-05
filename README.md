@@ -70,14 +70,8 @@ Updates are shared through official channels only.
 
 ⸻
 
-Official Links
-	•	🌐 Website: https://nest4nor.sbs
-	•	📧 Email: nor4@nest4nor.sbs
-	•	🐦 Twitter (X): https://x.com/nest4nor
-	•	💬 Telegram Channel: https://t.me/nest4nor
-	•	👥 Telegram Community: https://t.me/NOR0004
-	•	🛡 Token Officer: https://t.me/Token_Officer
-	•	🧾 BscScan: https://bscscan.com/token/0xA803243C629300f46a78195Da24EC451cDDCd32A
+
+	•	🧾 BscScan: /token/0xA803243C629300f46a78195Da24EC451cDDCd32A
 
 ⸻
 
